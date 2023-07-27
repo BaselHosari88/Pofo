@@ -1,0 +1,254 @@
+body{
+ background-color: #070707;
+ font-size: 16px;
+ font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#container{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    font: size 16px;;
+   
+}
+.col3{
+color: black;
+margin: 0 auto;
+float: left;
+text-align: center;
+width:26%;
+padding: 2%;
+margin: 1%;
+border-radius: 15px;
+font-size: 16px;
+border: solid 2px rgba(0.0.0.0);
+
+
+}
+.l1{
+
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.l2{
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+
+.l3{
+
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+.col3:hover{
+    border: solid 2px blue;
+
+}
+
+img{
+   
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+
+
+ #container1{
+
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 16px;
+    
+ }
+
+ #container2{
+     margin: 0 auto;
+     text-align: center;
+     padding-top: 50px;
+ }
+ 
+ .ll{
+
+    color: rgb(0, 0, 0);
+    margin: 0 auto;
+   float: left;
+    text-align: center;
+    width: 25%;
+    padding: 3%;
+    margin: 1%;
+    border-radius: 50px;
+    font-size: 16px;
+    border: solid 2px rgba(0.0.0.0);
+
+ }
+.ll:hover{
+    border: solid 2px blue;
+}
+
+
+
+#container3{
+    margin: 0 auto;
+   width: 80%;
+    text-align: center;
+    float: left;
+    padding-top: 50px;
+    padding-left: 100px;
+    margin: 1%;
+   
+   
+   
+}
+.contact1{
+    width: 40%;
+   
+ 
+    float: right;
+   
+}
+
+.contact2{
+    width:40%;
+    
+    
+}
+
+.contact3{
+    width: 40%;
+
+    float: right;
+}
+
+.contact4{
+    width: 40%;
+    float: left;
+}
+.fb{
+width: 25%;
+height: 130px;
+
+
+}
+
+
+
+
+.font1{
+    color: white;
+}
+.font2{
+    color: white;
+}
+.var,.var2, h1{
+    color: white;
+    background-color: black;
+}
+.var3{
+    color: white;
+    background-color: black;
+}
+.col:hover{
+    border: solid 2px blue;
+    border-radius: 50px;
+
+}
+
+.col1:hover{
+    border: solid 2px blue;
+    border-radius: 50px;
+
+}
+.contact1:hover{
+
+    border: solid 2px blue;
+    border-radius: 50px;
+
+}
+
+.contact2:hover{
+
+    border: solid 2px blue;
+    border-radius: 50px;
+
+}
+
+
+.contact3:hover{
+
+    border: solid 2px blue;
+    border-radius: 50px;
+
+}
+
+
+.contact4:hover{
+
+    border: solid 2px blue;
+    border-radius: 50px;
+
+}
+
+h1{
+    color: rgb(255, 117, 158);
+}
+
+.project{
+    padding: 20px;
+    margin: 10px;
+    
+    
+    }
+    .project:hover{
+        border: solid 2px blue;
+        border-radius: 50px;
+    }
+    .b1:hover{
+        border: solid 2px blue;
+    
+    }
+    .b1{
+        margin-right: 40px;
+        width: 250px;
+    }
+    
+    .b2:hover{
+        border: solid 2px blue;
+    
+    }
+    .b2{
+        margin-right: 40px;
+        width: 250px;
+    }
+    
+    .b3:hover{
+        border: solid 2px blue;
+        
+    
+    }
+    .b3{
+        margin-right: 40px;
+        width: 250px;
+    }
+
+    .boot:hover{
+        border: solid 2px blue;
+    
+    }
+    .boot{
+        margin-right: 40px;
+        width: 90%;
+        height: 90%;
+        margin: 0 auto;
+    }
+    
